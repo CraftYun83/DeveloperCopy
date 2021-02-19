@@ -1,0 +1,9 @@
+name: DeveloperCopy
+author: CraftYun83
+version: 1.0
+main: com.craftyun83.developercopy.Main
+description: Easily allow your developer's to add plugins without giving full access to the server!
+
+commands:
+  developercopy:
+    description: Main command of DeveloperCopy
